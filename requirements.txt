@@ -1,0 +1,3 @@
+pdfplumber
+docx
+docxedit
